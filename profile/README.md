@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kutu.so"><img src="banner.svg" alt="kutu OS — the RAM-sipping Linux desktop"></a>
+  <a href="https://kutu.so"><img src="../banner.svg" alt="kutu OS — the RAM-sipping Linux desktop"></a>
 </p>
 
 **kutu OS** is a Linux desktop that treats memory as the scarce resource it
